@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "./static/css/main.82bdc8a6.css",
+    "main.js": "./static/js/main.e0000aac.js",
+    "static/js/453.ed3810f9.chunk.js": "./static/js/453.ed3810f9.chunk.js",
+    "static/media/bluepaw.png": "./static/media/bluepaw.5f84286968aa2ab84c50.png",
+    "index.html": "./index.html",
+    "main.82bdc8a6.css.map": "./static/css/main.82bdc8a6.css.map",
+    "main.e0000aac.js.map": "./static/js/main.e0000aac.js.map",
+    "453.ed3810f9.chunk.js.map": "./static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.82bdc8a6.css",
+    "static/js/main.e0000aac.js"
+  ]
+}
